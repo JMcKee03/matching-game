@@ -1,4 +1,4 @@
-#Matching Game
+# Matching Game
 
 An Android-based memory matching game developed in Android Studio using Kotlin and XML layouts. The game features a grid-based board where players flip cards to find matching pairs, with logic to track attempts and manage game state across turns.
 
